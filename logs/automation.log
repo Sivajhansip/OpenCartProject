@@ -1,0 +1,66 @@
+2025-05-12 17:59:43 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\Spillibo\Eclipse Workspaces\SeleniumWebdriverSDTET\OpenCart\master.xml"
+2025-05-12 18:00:57 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\Spillibo\Eclipse Workspaces\SeleniumWebdriverSDTET\OpenCart\master.xml"
+2025-05-12 18:01:46 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\Spillibo\Eclipse Workspaces\SeleniumWebdriverSDTET\OpenCart\Master.xml"
+2025-05-12 18:01:46 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\Spillibo\Eclipse Workspaces\SeleniumWebdriverSDTET\OpenCart\Master.xml
+
+2025-05-12 18:02:34 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\Spillibo\Eclipse Workspaces\SeleniumWebdriverSDTET\OpenCart\Master.xml"
+2025-05-12 18:02:35 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\Spillibo\Eclipse Workspaces\SeleniumWebdriverSDTET\OpenCart\Master.xml
+
+2025-05-12 18:04:16 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\Spillibo\Eclipse Workspaces\SeleniumWebdriverSDTET\OpenCart\Grouping.xml"
+2025-05-12 18:04:16 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\Spillibo\Eclipse Workspaces\SeleniumWebdriverSDTET\OpenCart\Grouping.xml
+
+2025-05-12 18:09:30 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\Spillibo\Eclipse Workspaces\SeleniumWebdriverSDTET\OpenCart\Master.xml"
+2025-05-12 18:09:30 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\Spillibo\Eclipse Workspaces\SeleniumWebdriverSDTET\OpenCart\Master.xml
+
+2025-05-12 18:12:31 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\Spillibo\Eclipse Workspaces\SeleniumWebdriverSDTET\OpenCart\master.xml"
+2025-05-12 18:12:43 INFO  TC_001AccountRegistrationTest:14 - *********** Starting TC001_AccountRegistrationTest   *************
+2025-05-12 18:12:43 DEBUG TC_001AccountRegistrationTest:15 - **This is debug message**
+2025-05-12 18:12:43 INFO  TC_001AccountRegistrationTest:19 - Clicked on My account.....
+2025-05-12 18:12:45 INFO  TC_001AccountRegistrationTest:21 - Clicked on Register option.....
+2025-05-12 18:12:45 INFO  TC_001AccountRegistrationTest:24 - Providing customer details...
+2025-05-12 18:12:49 INFO  TC_001AccountRegistrationTest:38 - Validating expected message..
+2025-05-12 18:12:49 INFO  TC_001AccountRegistrationTest:49 - Hurray! Test passed..........
+2025-05-12 18:12:49 INFO  TC_001AccountRegistrationTest:57 - ***** Finished TC001_AccountRegistrationTest *****
+2025-05-12 18:12:54 INFO  TC_002_LoginTest:15 - ********* Starting TC_002_LoginTest *************
+2025-05-12 18:12:54 DEBUG TC_002_LoginTest:16 - Capturing debug logs.............
+2025-05-12 18:12:55 INFO  TC_002_LoginTest:22 - clicked on myaccount link on the home page..
+2025-05-12 18:12:55 INFO  TC_002_LoginTest:24 - clicked on login link under myaccount..
+2025-05-12 18:12:55 INFO  TC_002_LoginTest:28 - Entering valid email and password..
+2025-05-12 18:12:56 INFO  TC_002_LoginTest:32 - clicked on login button..
+2025-05-12 18:12:56 INFO  TC_002_LoginTest:46 - **** Finished TC_002_LoginTest  ****
+2025-05-12 18:18:58 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\Spillibo\Eclipse Workspaces\SeleniumWebdriverSDTET\OpenCart\master.xml"
+2025-05-12 18:19:05 INFO  TC_001AccountRegistrationTest:14 - *********** Starting TC001_AccountRegistrationTest   *************
+2025-05-12 18:19:05 DEBUG TC_001AccountRegistrationTest:15 - **This is debug message**
+2025-05-12 18:19:05 INFO  TC_001AccountRegistrationTest:19 - Clicked on My account.....
+2025-05-12 18:19:06 INFO  TC_001AccountRegistrationTest:21 - Clicked on Register option.....
+2025-05-12 18:19:06 INFO  TC_001AccountRegistrationTest:24 - Providing customer details...
+2025-05-12 18:19:09 INFO  TC_001AccountRegistrationTest:38 - Validating expected message..
+2025-05-12 18:19:09 INFO  TC_001AccountRegistrationTest:49 - Hurray! Test passed..........
+2025-05-12 18:19:09 INFO  TC_001AccountRegistrationTest:57 - ***** Finished TC001_AccountRegistrationTest *****
+2025-05-12 18:19:14 INFO  TC_002_LoginTest:15 - ********* Starting TC_002_LoginTest *************
+2025-05-12 18:19:14 DEBUG TC_002_LoginTest:16 - Capturing debug logs.............
+2025-05-12 18:19:14 INFO  TC_002_LoginTest:22 - clicked on myaccount link on the home page..
+2025-05-12 18:19:15 INFO  TC_002_LoginTest:24 - clicked on login link under myaccount..
+2025-05-12 18:19:15 INFO  TC_002_LoginTest:28 - Entering valid email and password..
+2025-05-12 18:19:16 INFO  TC_002_LoginTest:32 - clicked on login button..
+2025-05-12 18:19:16 INFO  TC_002_LoginTest:46 - **** Finished TC_002_LoginTest  ****
+2025-05-12 18:21:58 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\Spillibo\Eclipse Workspaces\SeleniumWebdriverSDTET\OpenCart\master.xml"
+2025-05-12 18:22:04 INFO  TC_001AccountRegistrationTest:14 - *********** Starting TC001_AccountRegistrationTest   *************
+2025-05-12 18:22:04 DEBUG TC_001AccountRegistrationTest:15 - **This is debug message**
+2025-05-12 18:22:04 INFO  TC_001AccountRegistrationTest:19 - Clicked on My account.....
+2025-05-12 18:22:05 INFO  TC_001AccountRegistrationTest:21 - Clicked on Register option.....
+2025-05-12 18:22:05 INFO  TC_001AccountRegistrationTest:24 - Providing customer details...
+2025-05-12 18:22:09 INFO  TC_001AccountRegistrationTest:38 - Validating expected message..
+2025-05-12 18:22:09 INFO  TC_001AccountRegistrationTest:49 - Hurray! Test passed..........
+2025-05-12 18:22:09 INFO  TC_001AccountRegistrationTest:57 - ***** Finished TC001_AccountRegistrationTest *****
+2025-05-12 18:22:13 INFO  TC_002_LoginTest:15 - ********* Starting TC_002_LoginTest *************
+2025-05-12 18:22:13 DEBUG TC_002_LoginTest:16 - Capturing debug logs.............
+2025-05-12 18:22:13 INFO  TC_002_LoginTest:22 - clicked on myaccount link on the home page..
+2025-05-12 18:22:14 INFO  TC_002_LoginTest:24 - clicked on login link under myaccount..
+2025-05-12 18:22:14 INFO  TC_002_LoginTest:28 - Entering valid email and password..
+2025-05-12 18:22:15 INFO  TC_002_LoginTest:32 - clicked on login button..
+2025-05-12 18:22:15 INFO  TC_002_LoginTest:46 - **** Finished TC_002_LoginTest  ****
