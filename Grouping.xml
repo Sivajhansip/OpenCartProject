@@ -9,15 +9,14 @@
 	<parameter name="browser" value="chrome"></parameter>
 	<groups>
 		<run>
-			
-			<include name="Master" />
-			
-			
-		</run>
+			<include name="Master" />		</run>
 	</groups>
     <classes>
-      <class name="testCases.TC_001AccountRegistrationTest"/>
+     <!-- <class name="testCases.TC_001AccountRegistrationTest"/>
       <class name="testCases.TC_002_LoginTest"/>
+      <class name="testCases.TC_004_SearchProductTest"/>
+      <class name="testCases.TC_005_AddToCartTestPage"/>-->
+      <class name="testCases.TC_006_EndToEndTest"/>
 
     </classes>
   </test> <!-- Test -->
