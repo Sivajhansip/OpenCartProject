@@ -90,7 +90,7 @@ public class AccountRegistrationPage extends BasePage {
     	//Sol5
     	//btnContinue.sendKeys(Keys.ENTER);
     	
-    	//Sol1
+    	//Sol6
     	//WebDriverWait mywait=new WebDriverWait(driver,Duration.ofSeconds(10));
     	//mywait.until(ExpectedConditions.elementToBeClickable(btnContinue)).click();
     	

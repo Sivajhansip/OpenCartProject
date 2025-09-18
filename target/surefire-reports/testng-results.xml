@@ -2,7 +2,7 @@
 <testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2025-05-12T18:21:58 IST" name="Suite" finished-at="2025-05-12T18:22:15 IST" duration-ms="17037">
+  <suite started-at="2025-08-28T15:29:21 IST" name="Suite" finished-at="2025-08-28T15:29:49 IST" duration-ms="27526">
     <groups>
       <group name="Master">
         <method signature="TC_001AccountRegistrationTest.verifyAccountRegistration()[pri:0, instance:testCases.TC_001AccountRegistrationTest@1fc32e4f]" name="verifyAccountRegistration" class="testCases.TC_001AccountRegistrationTest"/>
@@ -15,9 +15,9 @@
         <method signature="TC_001AccountRegistrationTest.verifyAccountRegistration()[pri:0, instance:testCases.TC_001AccountRegistrationTest@1fc32e4f]" name="verifyAccountRegistration" class="testCases.TC_001AccountRegistrationTest"/>
       </group> <!-- Regression -->
     </groups>
-    <test started-at="2025-05-12T18:21:58 IST" name="Test" finished-at="2025-05-12T18:22:15 IST" duration-ms="17037">
+    <test started-at="2025-08-28T15:29:21 IST" name="Test" finished-at="2025-08-28T15:29:49 IST" duration-ms="27526">
       <class name="testCases.TC_002_LoginTest">
-        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String)[pri:0, instance:testCases.TC_002_LoginTest@291a7e3c]" started-at="2025-05-12T18:22:09 IST" name="setup" finished-at="2025-05-12T18:22:13 IST" duration-ms="3920" status="PASS">
+        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String)[pri:0, instance:testCases.TC_002_LoginTest@291a7e3c]" started-at="2025-08-28T15:29:37 IST" name="setup" finished-at="2025-08-28T15:29:44 IST" duration-ms="6838" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -33,17 +33,17 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="verify_login()[pri:0, instance:testCases.TC_002_LoginTest@291a7e3c]" started-at="2025-05-12T18:22:13 IST" name="verify_login" finished-at="2025-05-12T18:22:15 IST" duration-ms="1874" status="PASS">
+        <test-method signature="verify_login()[pri:0, instance:testCases.TC_002_LoginTest@291a7e3c]" started-at="2025-08-28T15:29:44 IST" name="verify_login" finished-at="2025-08-28T15:29:48 IST" duration-ms="3758" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verify_login -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.TC_002_LoginTest@291a7e3c]" started-at="2025-05-12T18:22:15 IST" name="tearDown" finished-at="2025-05-12T18:22:15 IST" duration-ms="328" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.TC_002_LoginTest@291a7e3c]" started-at="2025-08-28T15:29:48 IST" name="tearDown" finished-at="2025-08-28T15:29:49 IST" duration-ms="990" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
       </class> <!-- testCases.TC_002_LoginTest -->
       <class name="testCases.TC_001AccountRegistrationTest">
-        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String)[pri:0, instance:testCases.TC_001AccountRegistrationTest@1fc32e4f]" started-at="2025-05-12T18:21:59 IST" name="setup" finished-at="2025-05-12T18:22:04 IST" duration-ms="5157" status="PASS">
+        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String)[pri:0, instance:testCases.TC_001AccountRegistrationTest@1fc32e4f]" started-at="2025-08-28T15:29:22 IST" name="setup" finished-at="2025-08-28T15:29:30 IST" duration-ms="7569" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -59,11 +59,11 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="verifyAccountRegistration()[pri:0, instance:testCases.TC_001AccountRegistrationTest@1fc32e4f]" started-at="2025-05-12T18:22:04 IST" name="verifyAccountRegistration" finished-at="2025-05-12T18:22:09 IST" duration-ms="5041" status="PASS">
+        <test-method signature="verifyAccountRegistration()[pri:0, instance:testCases.TC_001AccountRegistrationTest@1fc32e4f]" started-at="2025-08-28T15:29:30 IST" name="verifyAccountRegistration" finished-at="2025-08-28T15:29:36 IST" duration-ms="6727" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verifyAccountRegistration -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.TC_001AccountRegistrationTest@1fc32e4f]" started-at="2025-05-12T18:22:09 IST" name="tearDown" finished-at="2025-05-12T18:22:09 IST" duration-ms="311" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.TC_001AccountRegistrationTest@1fc32e4f]" started-at="2025-08-28T15:29:36 IST" name="tearDown" finished-at="2025-08-28T15:29:37 IST" duration-ms="809" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->

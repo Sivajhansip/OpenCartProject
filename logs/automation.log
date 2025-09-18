@@ -1,52 +1,60 @@
-2025-05-24 11:23:00 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\Spillibo\Eclipse Workspaces\SeleniumWebdriverSDTET\OpenCart\Grouping.xml"
-2025-05-24 11:23:00 INFO  Utils:112 - [TestNG] Running:
-  C:\Users\Spillibo\Eclipse Workspaces\SeleniumWebdriverSDTET\OpenCart\Grouping.xml
+2025-08-28 12:27:04 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\Spillibo\Eclipse Workspaces\SeleniumWebdriverSDTET\OpenCart_Hybrid\CrossBrowserTest.xml"
+2025-08-28 12:27:05 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\Spillibo\Eclipse Workspaces\SeleniumWebdriverSDTET\OpenCart_Hybrid\CrossBrowserTest.xml
 
-2025-05-24 11:24:28 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\Spillibo\Eclipse Workspaces\SeleniumWebdriverSDTET\OpenCart\Grouping.xml"
-2025-05-24 11:24:28 INFO  Utils:112 - [TestNG] Running:
-  C:\Users\Spillibo\Eclipse Workspaces\SeleniumWebdriverSDTET\OpenCart\Grouping.xml
-
-2025-05-24 11:26:32 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\Spillibo\Eclipse Workspaces\SeleniumWebdriverSDTET\OpenCart\Grouping.xml"
-2025-05-24 11:26:32 INFO  Utils:112 - [TestNG] Running:
-  C:\Users\Spillibo\Eclipse Workspaces\SeleniumWebdriverSDTET\OpenCart\Grouping.xml
-
-2025-05-24 11:29:28 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\Spillibo\Eclipse Workspaces\SeleniumWebdriverSDTET\OpenCart\Grouping.xml"
-2025-05-24 11:29:29 INFO  Utils:112 - [TestNG] Running:
-  C:\Users\Spillibo\Eclipse Workspaces\SeleniumWebdriverSDTET\OpenCart\Grouping.xml
-
-2025-05-24 11:31:16 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\Spillibo\Eclipse Workspaces\SeleniumWebdriverSDTET\OpenCart\Grouping.xml"
-2025-05-24 11:31:17 INFO  Utils:112 - [TestNG] Running:
-  C:\Users\Spillibo\Eclipse Workspaces\SeleniumWebdriverSDTET\OpenCart\Grouping.xml
-
-2025-05-24 11:33:21 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\Spillibo\Eclipse Workspaces\SeleniumWebdriverSDTET\OpenCart\Grouping.xml"
-2025-05-24 11:33:21 INFO  Utils:112 - [TestNG] Running:
-  C:\Users\Spillibo\Eclipse Workspaces\SeleniumWebdriverSDTET\OpenCart\Grouping.xml
-
-2025-05-24 11:36:13 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\Spillibo\Eclipse Workspaces\SeleniumWebdriverSDTET\OpenCart\Grouping.xml"
-2025-05-24 11:36:13 INFO  Utils:112 - [TestNG] Running:
-  C:\Users\Spillibo\Eclipse Workspaces\SeleniumWebdriverSDTET\OpenCart\Grouping.xml
-
-2025-05-24 11:38:44 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\Spillibo\Eclipse Workspaces\SeleniumWebdriverSDTET\OpenCart\Grouping.xml"
-2025-05-24 11:38:44 INFO  Utils:112 - [TestNG] Running:
-  C:\Users\Spillibo\Eclipse Workspaces\SeleniumWebdriverSDTET\OpenCart\Grouping.xml
-
-2025-05-24 11:40:40 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\Spillibo\Eclipse Workspaces\SeleniumWebdriverSDTET\OpenCart\Grouping.xml"
-2025-05-24 11:40:41 INFO  Utils:112 - [TestNG] Running:
-  C:\Users\Spillibo\Eclipse Workspaces\SeleniumWebdriverSDTET\OpenCart\Grouping.xml
-
-2025-05-24 11:45:01 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\Spillibo\Eclipse Workspaces\SeleniumWebdriverSDTET\OpenCart\Grouping.xml"
-2025-05-24 11:45:02 INFO  Utils:112 - [TestNG] Running:
-  C:\Users\Spillibo\Eclipse Workspaces\SeleniumWebdriverSDTET\OpenCart\Grouping.xml
-
-2025-05-24 11:50:47 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\Spillibo\Eclipse Workspaces\SeleniumWebdriverSDTET\OpenCart\Grouping.xml"
-2025-05-24 11:50:47 INFO  Utils:112 - [TestNG] Running:
-  C:\Users\Spillibo\Eclipse Workspaces\SeleniumWebdriverSDTET\OpenCart\Grouping.xml
-
-2025-05-24 11:53:42 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\Spillibo\Eclipse Workspaces\SeleniumWebdriverSDTET\OpenCart\Grouping.xml"
-2025-05-24 11:53:42 INFO  Utils:112 - [TestNG] Running:
-  C:\Users\Spillibo\Eclipse Workspaces\SeleniumWebdriverSDTET\OpenCart\Grouping.xml
-
-2025-05-24 11:57:43 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\Spillibo\Eclipse Workspaces\SeleniumWebdriverSDTET\OpenCart\Grouping.xml"
-2025-05-24 11:57:43 INFO  Utils:112 - [TestNG] Running:
-  C:\Users\Spillibo\Eclipse Workspaces\SeleniumWebdriverSDTET\OpenCart\Grouping.xml
-
+2025-08-28 12:27:21 INFO  TC_001AccountRegistrationTest:14 - *********** Starting TC001_AccountRegistrationTest   *************
+2025-08-28 12:27:21 DEBUG TC_001AccountRegistrationTest:15 - **This is debug message**
+2025-08-28 12:27:21 INFO  TC_001AccountRegistrationTest:19 - Clicked on My account.....
+2025-08-28 12:27:22 INFO  TC_001AccountRegistrationTest:21 - Clicked on Register option.....
+2025-08-28 12:27:22 INFO  TC_001AccountRegistrationTest:24 - Providing customer details...
+2025-08-28 12:27:27 INFO  TC_001AccountRegistrationTest:38 - Validating expected message..
+2025-08-28 12:27:27 INFO  TC_001AccountRegistrationTest:49 - Hurray! Test passed..........
+2025-08-28 12:27:27 INFO  TC_001AccountRegistrationTest:57 - ***** Finished TC001_AccountRegistrationTest *****
+2025-08-28 12:27:38 INFO  TC_001AccountRegistrationTest:14 - *********** Starting TC001_AccountRegistrationTest   *************
+2025-08-28 12:27:38 DEBUG TC_001AccountRegistrationTest:15 - **This is debug message**
+2025-08-28 12:27:38 INFO  TC_001AccountRegistrationTest:19 - Clicked on My account.....
+2025-08-28 12:27:39 INFO  TC_001AccountRegistrationTest:21 - Clicked on Register option.....
+2025-08-28 12:27:39 INFO  TC_001AccountRegistrationTest:24 - Providing customer details...
+2025-08-28 12:27:44 INFO  TC_001AccountRegistrationTest:38 - Validating expected message..
+2025-08-28 12:27:44 INFO  TC_001AccountRegistrationTest:49 - Hurray! Test passed..........
+2025-08-28 12:27:44 INFO  TC_001AccountRegistrationTest:57 - ***** Finished TC001_AccountRegistrationTest *****
+2025-08-28 12:27:59 INFO  TC_001AccountRegistrationTest:14 - *********** Starting TC001_AccountRegistrationTest   *************
+2025-08-28 12:27:59 DEBUG TC_001AccountRegistrationTest:15 - **This is debug message**
+2025-08-28 12:27:59 INFO  TC_001AccountRegistrationTest:19 - Clicked on My account.....
+2025-08-28 12:28:00 INFO  TC_001AccountRegistrationTest:21 - Clicked on Register option.....
+2025-08-28 12:28:00 INFO  TC_001AccountRegistrationTest:24 - Providing customer details...
+2025-08-28 12:28:04 INFO  TC_001AccountRegistrationTest:38 - Validating expected message..
+2025-08-28 12:28:04 INFO  TC_001AccountRegistrationTest:49 - Hurray! Test passed..........
+2025-08-28 12:28:04 INFO  TC_001AccountRegistrationTest:57 - ***** Finished TC001_AccountRegistrationTest *****
+2025-08-28 15:27:03 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\Spillibo\Eclipse Workspaces\SeleniumWebdriverSDTET\OpenCart_Hybrid\master.xml"
+2025-08-28 15:27:12 INFO  TC_001AccountRegistrationTest:14 - *********** Starting TC001_AccountRegistrationTest   *************
+2025-08-28 15:27:12 DEBUG TC_001AccountRegistrationTest:15 - **This is debug message**
+2025-08-28 15:27:12 INFO  TC_001AccountRegistrationTest:19 - Clicked on My account.....
+2025-08-28 15:27:13 INFO  TC_001AccountRegistrationTest:21 - Clicked on Register option.....
+2025-08-28 15:27:13 INFO  TC_001AccountRegistrationTest:24 - Providing customer details...
+2025-08-28 15:27:18 INFO  TC_001AccountRegistrationTest:38 - Validating expected message..
+2025-08-28 15:27:18 INFO  TC_001AccountRegistrationTest:49 - Hurray! Test passed..........
+2025-08-28 15:27:18 INFO  TC_001AccountRegistrationTest:57 - ***** Finished TC001_AccountRegistrationTest *****
+2025-08-28 15:27:26 INFO  TC_002_LoginTest:15 - ********* Starting TC_002_LoginTest *************
+2025-08-28 15:27:26 DEBUG TC_002_LoginTest:16 - Capturing debug logs.............
+2025-08-28 15:27:26 INFO  TC_002_LoginTest:22 - clicked on myaccount link on the home page..
+2025-08-28 15:27:28 INFO  TC_002_LoginTest:24 - clicked on login link under myaccount..
+2025-08-28 15:27:28 INFO  TC_002_LoginTest:28 - Entering valid email and password..
+2025-08-28 15:27:30 INFO  TC_002_LoginTest:32 - clicked on login button..
+2025-08-28 15:27:30 INFO  TC_002_LoginTest:46 - **** Finished TC_002_LoginTest  ****
+2025-08-28 15:29:21 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\Spillibo\Eclipse Workspaces\SeleniumWebdriverSDTET\OpenCart_Hybrid\master.xml"
+2025-08-28 15:29:30 INFO  TC_001AccountRegistrationTest:14 - *********** Starting TC001_AccountRegistrationTest   *************
+2025-08-28 15:29:30 DEBUG TC_001AccountRegistrationTest:15 - **This is debug message**
+2025-08-28 15:29:30 INFO  TC_001AccountRegistrationTest:19 - Clicked on My account.....
+2025-08-28 15:29:31 INFO  TC_001AccountRegistrationTest:21 - Clicked on Register option.....
+2025-08-28 15:29:31 INFO  TC_001AccountRegistrationTest:24 - Providing customer details...
+2025-08-28 15:29:36 INFO  TC_001AccountRegistrationTest:38 - Validating expected message..
+2025-08-28 15:29:36 INFO  TC_001AccountRegistrationTest:49 - Hurray! Test passed..........
+2025-08-28 15:29:36 INFO  TC_001AccountRegistrationTest:57 - ***** Finished TC001_AccountRegistrationTest *****
+2025-08-28 15:29:44 INFO  TC_002_LoginTest:15 - ********* Starting TC_002_LoginTest *************
+2025-08-28 15:29:44 DEBUG TC_002_LoginTest:16 - Capturing debug logs.............
+2025-08-28 15:29:45 INFO  TC_002_LoginTest:22 - clicked on myaccount link on the home page..
+2025-08-28 15:29:46 INFO  TC_002_LoginTest:24 - clicked on login link under myaccount..
+2025-08-28 15:29:46 INFO  TC_002_LoginTest:28 - Entering valid email and password..
+2025-08-28 15:29:48 INFO  TC_002_LoginTest:32 - clicked on login button..
+2025-08-28 15:29:48 INFO  TC_002_LoginTest:46 - **** Finished TC_002_LoginTest  ****
